@@ -1,6 +1,6 @@
 # AGH-CI-Dog-Breed-Classifier
 ## 2022 Computational Intelligence Project
-Dog Breed Classifier implementation for SP2 course on AGH UST.
+Dog Breed Classifier implementation for CI course on AGH UST.
 
 ## Topic of the project
 Image classification of Stanford Dogs
